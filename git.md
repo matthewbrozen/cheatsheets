@@ -19,3 +19,5 @@ git pull = pulls the file from the remote repository to your local repository
 git checkout = change between branches or commits
 
 git diff = displays list of changes between two commits
+
+ git pullRequest = used to let the admin know that we are ready to commit 
